@@ -13,40 +13,6 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=django" height="33" alt="django logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="33" alt="nginx logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="33" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="33" alt="redis logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
