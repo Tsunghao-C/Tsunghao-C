@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🏫 Studied at Ecole 42 Paris.<br>👨‍🎓 Actively looking for CDI opportunities in AI / Software Engineer<br>📋 Visit my portfolio at <a href="https://tsunghao.dev">My website</a></p>
+<p align="left">🏫 Graduated from École 42 Paris with RNCP 7 title in AI and Data.<br>👨‍🎓 Actively looking for CDI opportunities in AI / Software Engineer<br>📋 Visit my portfolio at <a href="https://tsunghao.dev">My website</a></p>
 
 ###
 
